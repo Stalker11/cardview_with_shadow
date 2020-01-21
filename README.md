@@ -13,7 +13,7 @@ allprojects {
  Add the dependency:
  ```
  dependencies {
-	        compile 'com.github.cardview_with_shadow:r.r.r'
+	        implementation 'com.github.Stalker11:cardview_with_shadow:r.r.r'
 	}
   ```
   Where r.r.r last release version.<br/>
