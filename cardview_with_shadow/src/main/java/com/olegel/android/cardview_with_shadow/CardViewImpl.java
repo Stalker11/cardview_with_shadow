@@ -2,7 +2,7 @@ package com.olegel.android.cardview_with_shadow;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 public interface CardViewImpl {
   void initialize(CardViewDelegate cardView, Context context, ColorStateList backgroundColor,
